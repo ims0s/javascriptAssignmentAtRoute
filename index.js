@@ -263,7 +263,7 @@ switch(true){
         console.log('Negative')
         break;
     default:
-        console.logI('Zero')
+        console.log('Zero')
 
 }
 
